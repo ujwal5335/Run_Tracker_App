@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Run Tracker App</string>
+    <string name="title_analytics_feature">Analytics</string>
+    <string name="error_couldnt_load_module">Couldn\'t load Analytics Module.</string>
+    <string name="error_installation_failed">Oops! The installation got failed. Please try again later.</string>
+    <string name="installation_success">The Analytics Feature is now installed.</string>
+    <string name="installing_module">Installing Module</string>
+</resources>
